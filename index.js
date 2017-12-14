@@ -1,1 +1,1 @@
-var recipe = {ob}
+var recipe = new Object;
