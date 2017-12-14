@@ -1,7 +1,7 @@
 var recipes = {key:"value"};
 
 function updateObjectWithKeyAndValue(object, key, value){
-  Object.Assign()
+  Object.Assign({2},)
   return recipes;
 }
 
