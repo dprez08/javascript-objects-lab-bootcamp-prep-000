@@ -1,1 +1,1 @@
-var recipe = object();
+var recipe = objects();
