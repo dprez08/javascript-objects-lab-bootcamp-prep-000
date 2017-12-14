@@ -1,1 +1,1 @@
-function recipe(object, key, value)
+var recipe = object();
